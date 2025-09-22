@@ -137,3 +137,5 @@ firo.files
 firo.includes
 
 /guix-build-*
+config.bat
+node_modules
