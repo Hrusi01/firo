@@ -147,3 +147,5 @@ compile_commands.json
 #spats stuff
 src/spats/.idea
 src/spats/cmake-build-debug
+config.bat
+node_modules
