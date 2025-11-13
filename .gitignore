@@ -1,7 +1,6 @@
 # ide & editor stuff
 .project
 .cproject
-.vscode
 
 *.tar.gz
 
@@ -137,3 +136,5 @@ firo.files
 firo.includes
 
 /guix-build-*
+config.bat
+node_modules
